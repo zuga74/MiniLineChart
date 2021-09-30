@@ -1,4 +1,4 @@
-package com.skbturbina.apn;
+package com.zuga74.minilinechart;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
