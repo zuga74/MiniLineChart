@@ -1,5 +1,7 @@
 Small Chart for drawing line graphs
 
+  ![](fig.gif)
+
 Add to markup file XML
 
 ```
@@ -31,6 +33,8 @@ Chart.invalidate ();
 ----------------- RUS ------------------------
 
 Небольшой Chart для рисования графиков
+
+  ![](fig.gif)
 
 Добавить в файл разметки XML
 
